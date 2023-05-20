@@ -1,0 +1,52 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<eduplan xmlns:study = "http://www.itmo.ru/xml/lessons">
+	<sourcestudy xmlns:src ="https://ru.wikipedia.org/wiki/">
+		<study:lesson id = "1">
+			<study:Group>124/16</study:Group>
+			<study:Lesson>Технологии программирования</study:Lesson>
+			<study:LastNameTeacher>Лучший преподаватель №1</study:LastNameTeacher>
+			<study:StartOfTime>18:30</study:StartOfTime>
+			<study:CourseStartDate>28.03.2022</study:CourseStartDate>
+			<study:CourseEndDdate>15.04.2022</study:CourseEndDdate>
+			<study:QuantityHours>50</study:QuantityHours>
+			<study:FinalAssessment>зачёт</study:FinalAssessment>
+			<src:Source>Books</src:Source>
+		</study:lesson>
+		
+		<study:lesson id = "2">
+			<study:Group>124/16</study:Group>
+			<study:Lesson>Введение в базы данных</study:Lesson>
+			<study:LastNameTeacher>Лучший преподаватель №2</study:LastNameTeacher>
+			<study:StartOfTime>18:30</study:StartOfTime>
+			<study:CourseStartDate>18.04.2022</study:CourseStartDate>
+			<study:CourseEndDdate>29.04.2022</study:CourseEndDdate>
+			<study:QuantityHours>30</study:QuantityHours>
+			<study:FinalAssessment>зачёт</study:FinalAssessment>
+			<src:Source>https://www.mysql.com/</src:Source>
+		</study:lesson>
+		
+		<study:lesson id = "3">
+			<study:Group>124/16</study:Group>
+			<study:Lesson>Программирование на C#</study:Lesson>
+			<study:LastNameTeacher>Лучший преподаватель №1</study:LastNameTeacher>
+			<study:StartOfTime>18:30</study:StartOfTime>
+			<study:CourseStartDate>11.05.2022</study:CourseStartDate>
+			<study:CourseEndDdate>31.05.2022</study:CourseEndDdate>
+			<study:QuantityHours>50</study:QuantityHours>
+			<study:FinalAssessment>зачёт</study:FinalAssessment>
+			<src:Source>https://docs.microsoft.com/ru-ru/dotnet/csharp/</src:Source>
+		</study:lesson>
+
+		<study:lesson id = "4">
+			<study:Group>124/16</study:Group>
+			<study:Lesson>Transact-SQL и Разработка Microsoft SQL Server</study:Lesson>
+			<study:LastNameTeacher>Лучший преподаватель №2</study:LastNameTeacher>
+			<study:StartOfTime>18:30</study:StartOfTime>
+			<study:CourseStartDate>02.06.2022</study:CourseStartDate>
+			<study:CourseEndDdate>24.06.2022</study:CourseEndDdate>
+			<study:QuantityHours>65</study:QuantityHours>
+			<study:FinalAssessment>экзамен</study:FinalAssessment>
+			<src:Source>https://www.microsoft.com/ru-ru/sql-server/sql-server-2019</src:Source>
+		</study:lesson>
+	</sourcestudy>
+</eduplan>

@@ -1,0 +1,47 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<eduplan>
+	<lesson id = "1">
+		<Group>124/16</Group>
+		<Lesson>Технологии программирования</Lesson>
+		<LastNameTeacher>Лучший преподаватель №1</LastNameTeacher>
+		<StartOfTime>18:30</StartOfTime>
+		<CourseStartDate>28.03.2022</CourseStartDate>
+		<CourseEndDdate>15.04.2022</CourseEndDdate>
+		<QuantityHours>50</QuantityHours>
+		<FinalAssessment>зачёт</FinalAssessment>
+	</lesson>
+	
+	<lesson id = "2">
+		<Group>124/16</Group>
+		<Lesson>Введение в базы данных</Lesson>
+		<LastNameTeacher>Лучший преподаватель №2</LastNameTeacher>
+		<StartOfTime>18:30</StartOfTime>
+		<CourseStartDate>18.04.2022</CourseStartDate>
+		<CourseEndDdate>29.04.2022</CourseEndDdate>
+		<QuantityHours>30</QuantityHours>
+		<FinalAssessment>зачёт</FinalAssessment>
+	</lesson>
+	
+	<lesson id = "3">
+		<Group>124/16</Group>
+		<Lesson>Программирование на C#</Lesson>
+		<LastNameTeacher>Лучший преподаватель №1</LastNameTeacher>
+		<StartOfTime>18:30</StartOfTime>
+		<CourseStartDate>11.05.2022</CourseStartDate>
+		<CourseEndDdate>31.05.2022</CourseEndDdate>
+		<QuantityHours>50</QuantityHours>
+		<FinalAssessment>зачёт</FinalAssessment>
+	</lesson>
+
+	<lesson id = "4">
+		<Group>124/16</Group>
+		<Lesson>Transact-SQL и Разработка Microsoft SQL Server</Lesson>
+		<LastNameTeacher>Лучший преподаватель №2</LastNameTeacher>
+		<StartOfTime>18:30</StartOfTime>
+		<CourseStartDate>02.06.2022</CourseStartDate>
+		<CourseEndDdate>24.06.2022</CourseEndDdate>
+		<QuantityHours>65</QuantityHours>
+		<FinalAssessment>экзамен</FinalAssessment>
+	</lesson>
+
+</eduplan>
